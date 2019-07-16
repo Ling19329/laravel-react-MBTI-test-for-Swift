@@ -24,12 +24,12 @@ Implement MBTI test project using fullstack (backend-PHP7, Laravel, MySQL and  f
 3. Used axios for fetching data from API.
 
 Prerequisites. To build, run and test this you need:
-    1. One of the latest npm version (I have 6.7.0 and I haven't tested it with an earlier one).
+1. One of the latest npm version (I have 6.7.0 and I haven't tested it with an earlier one).
 
 #To run and test application:
-    1. Go to root folder and run "composer install" command.
-    1. Go to root folder and run "npm install" command.
-    2. Run "php artisan serve"
+1. Go to root folder and run "composer install" command.
+2. Go to root folder and run "npm install" command.
+3. Run "php artisan serve"
     
 June 16, 2019
 
