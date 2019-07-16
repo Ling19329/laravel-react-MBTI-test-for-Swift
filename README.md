@@ -3,8 +3,8 @@ Done by Fei Xiao for Shift
 
 #Project description
 The project is for MBTI test. There are ten questions and users should answer all questions and send answers with his/her email address. And user can get the result saying his/her perspective.
-![My image](https://github.com/Ling19329/laravel-react-MBTI-test/app/public/images/test.jpg)
-![My image](https://github.com/Ling19329/laravel-react-MBTI-test/app/public/images/result.jpg)
+![My image](https://github.com/Ling19329/laravel-react-MBTI-test/test_MBTI/app/public/images/test.jpg)
+![My image](https://github.com/Ling19329/laravel-react-MBTI-test/test_MBTI/app/public/images/result.jpg)
 #Task Definition:
 Implement MBTI test project using fullstack (backend-PHP7, Laravel, MySQL and  frontend - React.js + TypeScript + MobX )  
 
@@ -29,7 +29,8 @@ Prerequisites. To build, run and test this you need:
 #To run and test application:
 1. Go to root folder and run "composer install" command.
 2. Go to root folder and run "npm install" command.
-3. Run "php artisan serve"
+3. Go to .env and change keys for database
+4. Run "php artisan serve"
     
 June 16, 2019
 
