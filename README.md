@@ -3,8 +3,8 @@ Done by Fei Xiao for Shift
 
 #Project description
 The project is for MBTI test. There are ten questions and users should answer all questions and send answers with his/her email address. And user can get the result saying his/her perspective.
-![My image](https://github.com/Ling19329/laravel-react-MBTI-test/test_MBTI/app/public/images/test.jpg)
-![My image](https://github.com/Ling19329/laravel-react-MBTI-test/test_MBTI/app/public/images/result.jpg)
+![test](https://github.com/Ling19329/laravel-react-MBTI-test/tree/master/test_MBTI/public/images/test.jpg)
+![result](https://github.com/Ling19329/laravel-react-MBTI-test/tree/master/test_MBTI/public/images/result.jpg)
 #Task Definition:
 Implement MBTI test project using fullstack (backend-PHP7, Laravel, MySQL and  frontend - React.js + TypeScript + MobX )  
 
